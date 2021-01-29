@@ -5,7 +5,7 @@
 package jenkins;
 /**
  *
- * @author dc1617daw2
+ * @author sealja2021daw2@gmail.com
  */
 import java.io.*;
 public class Jenkins {
